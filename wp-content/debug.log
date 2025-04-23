@@ -1,0 +1,7 @@
+[06-Apr-2025 09:42:55 UTC] PHP Warning:  Undefined array key "host" in /var/www/html/wp-includes/pluggable.php on line 1625
+[06-Apr-2025 09:55:25 UTC] PHP Parse error:  syntax error, unexpected token "function" in /var/www/html/wp-content/plugins/steam-top-games/cssCopiarEditarsteam-top-games.php on line 6
+[06-Apr-2025 10:56:08 UTC] PHP Parse error:  syntax error, unexpected token "function" in /var/www/html/wp-content/plugins/steam-top-games/cssCopiarEditarsteam-top-games.php on line 6
+[06-Apr-2025 10:56:10 UTC] PHP Parse error:  syntax error, unexpected token "function" in /var/www/html/wp-content/plugins/steam-top-games/cssCopiarEditarsteam-top-games.php on line 6
+[06-Apr-2025 10:56:10 UTC] PHP Parse error:  syntax error, unexpected token "function" in /var/www/html/wp-content/plugins/steam-top-games/cssCopiarEditarsteam-top-games.php on line 6
+[06-Apr-2025 10:56:10 UTC] PHP Parse error:  syntax error, unexpected token "function" in /var/www/html/wp-content/plugins/steam-top-games/cssCopiarEditarsteam-top-games.php on line 6
+[06-Apr-2025 10:56:11 UTC] PHP Parse error:  syntax error, unexpected token "function" in /var/www/html/wp-content/plugins/steam-top-games/cssCopiarEditarsteam-top-games.php on line 6
